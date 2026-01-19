@@ -1,0 +1,1623 @@
+{
+  "continents": [
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "Afghanistan",
+          "population": 31056997,
+          "area_sq_mi": 647500,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "36,0"
+        },
+        {
+          "name": "Bangladesh",
+          "population": 147365352,
+          "area_sq_mi": 144000,
+          "gdp_per_capita": 1900.0,
+          "literacy_percent": "43,1"
+        },
+        {
+          "name": "Bhutan",
+          "population": 2279723,
+          "area_sq_mi": 47000,
+          "gdp_per_capita": 1300.0,
+          "literacy_percent": "42,2"
+        },
+        {
+          "name": "Brunei",
+          "population": 379444,
+          "area_sq_mi": 5770,
+          "gdp_per_capita": 18600.0,
+          "literacy_percent": "93,9"
+        },
+        {
+          "name": "Burma",
+          "population": 47382633,
+          "area_sq_mi": 678500,
+          "gdp_per_capita": 1800.0,
+          "literacy_percent": "85,3"
+        },
+        {
+          "name": "Cambodia",
+          "population": 13881427,
+          "area_sq_mi": 181040,
+          "gdp_per_capita": 1900.0,
+          "literacy_percent": "69,4"
+        },
+        {
+          "name": "China",
+          "population": 1313973713,
+          "area_sq_mi": 9596960,
+          "gdp_per_capita": 5000.0,
+          "literacy_percent": "90,9"
+        },
+        {
+          "name": "East Timor",
+          "population": 1062777,
+          "area_sq_mi": 15007,
+          "gdp_per_capita": 500.0,
+          "literacy_percent": "58,6"
+        },
+        {
+          "name": "Hong Kong",
+          "population": 6940432,
+          "area_sq_mi": 1092,
+          "gdp_per_capita": 28800.0,
+          "literacy_percent": "93,5"
+        },
+        {
+          "name": "India",
+          "population": 1095351995,
+          "area_sq_mi": 3287590,
+          "gdp_per_capita": 2900.0,
+          "literacy_percent": "59,5"
+        },
+        {
+          "name": "Indonesia",
+          "population": 245452739,
+          "area_sq_mi": 1919440,
+          "gdp_per_capita": 3200.0,
+          "literacy_percent": "87,9"
+        },
+        {
+          "name": "Iran",
+          "population": 68688433,
+          "area_sq_mi": 1648000,
+          "gdp_per_capita": 7000.0,
+          "literacy_percent": "79,4"
+        },
+        {
+          "name": "Japan",
+          "population": 127463611,
+          "area_sq_mi": 377835,
+          "gdp_per_capita": 28200.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Korea, North",
+          "population": 23113019,
+          "area_sq_mi": 120540,
+          "gdp_per_capita": 1300.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Korea, South",
+          "population": 48846823,
+          "area_sq_mi": 98480,
+          "gdp_per_capita": 17800.0,
+          "literacy_percent": "97,9"
+        },
+        {
+          "name": "Laos",
+          "population": 6368481,
+          "area_sq_mi": 236800,
+          "gdp_per_capita": 1700.0,
+          "literacy_percent": "66,4"
+        },
+        {
+          "name": "Macau",
+          "population": 453125,
+          "area_sq_mi": 28,
+          "gdp_per_capita": 19400.0,
+          "literacy_percent": "94,5"
+        },
+        {
+          "name": "Malaysia",
+          "population": 24385858,
+          "area_sq_mi": 329750,
+          "gdp_per_capita": 9000.0,
+          "literacy_percent": "88,7"
+        },
+        {
+          "name": "Maldives",
+          "population": 359008,
+          "area_sq_mi": 300,
+          "gdp_per_capita": 3900.0,
+          "literacy_percent": "97,2"
+        },
+        {
+          "name": "Mongolia",
+          "population": 2832224,
+          "area_sq_mi": 1564116,
+          "gdp_per_capita": 1800.0,
+          "literacy_percent": "97,8"
+        },
+        {
+          "name": "Nepal",
+          "population": 28287147,
+          "area_sq_mi": 147181,
+          "gdp_per_capita": 1400.0,
+          "literacy_percent": "45,2"
+        },
+        {
+          "name": "Pakistan",
+          "population": 165803560,
+          "area_sq_mi": 803940,
+          "gdp_per_capita": 2100.0,
+          "literacy_percent": "45,7"
+        },
+        {
+          "name": "Philippines",
+          "population": 89468677,
+          "area_sq_mi": 300000,
+          "gdp_per_capita": 4600.0,
+          "literacy_percent": "92,6"
+        },
+        {
+          "name": "Singapore",
+          "population": 4492150,
+          "area_sq_mi": 693,
+          "gdp_per_capita": 23700.0,
+          "literacy_percent": "92,5"
+        },
+        {
+          "name": "Sri Lanka",
+          "population": 20222240,
+          "area_sq_mi": 65610,
+          "gdp_per_capita": 3700.0,
+          "literacy_percent": "92,3"
+        },
+        {
+          "name": "Taiwan",
+          "population": 23036087,
+          "area_sq_mi": 35980,
+          "gdp_per_capita": 23400.0,
+          "literacy_percent": "96,1"
+        },
+        {
+          "name": "Thailand",
+          "population": 64631595,
+          "area_sq_mi": 514000,
+          "gdp_per_capita": 7400.0,
+          "literacy_percent": "92,6"
+        },
+        {
+          "name": "Vietnam",
+          "population": 84402966,
+          "area_sq_mi": 329560,
+          "gdp_per_capita": 2500.0,
+          "literacy_percent": "90,3"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "countries": [
+        {
+          "name": "Albania",
+          "population": 3581655,
+          "area_sq_mi": 28748,
+          "gdp_per_capita": 4500.0,
+          "literacy_percent": "86,5"
+        },
+        {
+          "name": "Andorra",
+          "population": 71201,
+          "area_sq_mi": 468,
+          "gdp_per_capita": 19000.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Austria",
+          "population": 8192880,
+          "area_sq_mi": 83870,
+          "gdp_per_capita": 30000.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Belgium",
+          "population": 10379067,
+          "area_sq_mi": 30528,
+          "gdp_per_capita": 29100.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Bosnia & Herzegovina",
+          "population": 4498976,
+          "area_sq_mi": 51129,
+          "gdp_per_capita": 6100.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Bulgaria",
+          "population": 7385367,
+          "area_sq_mi": 110910,
+          "gdp_per_capita": 7600.0,
+          "literacy_percent": "98,6"
+        },
+        {
+          "name": "Croatia",
+          "population": 4494749,
+          "area_sq_mi": 56542,
+          "gdp_per_capita": 10600.0,
+          "literacy_percent": "98,5"
+        },
+        {
+          "name": "Czech Republic",
+          "population": 10235455,
+          "area_sq_mi": 78866,
+          "gdp_per_capita": 15700.0,
+          "literacy_percent": "99,9"
+        },
+        {
+          "name": "Denmark",
+          "population": 5450661,
+          "area_sq_mi": 43094,
+          "gdp_per_capita": 31100.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Faroe Islands",
+          "population": 47246,
+          "area_sq_mi": 1399,
+          "gdp_per_capita": 22000.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Finland",
+          "population": 5231372,
+          "area_sq_mi": 338145,
+          "gdp_per_capita": 27400.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "France",
+          "population": 60876136,
+          "area_sq_mi": 547030,
+          "gdp_per_capita": 27600.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Germany",
+          "population": 82422299,
+          "area_sq_mi": 357021,
+          "gdp_per_capita": 27600.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Gibraltar",
+          "population": 27928,
+          "area_sq_mi": 7,
+          "gdp_per_capita": 17500.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Greece",
+          "population": 10688058,
+          "area_sq_mi": 131940,
+          "gdp_per_capita": 20000.0,
+          "literacy_percent": "97,5"
+        },
+        {
+          "name": "Guernsey",
+          "population": 65409,
+          "area_sq_mi": 78,
+          "gdp_per_capita": 20000.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Hungary",
+          "population": 9981334,
+          "area_sq_mi": 93030,
+          "gdp_per_capita": 13900.0,
+          "literacy_percent": "99,4"
+        },
+        {
+          "name": "Iceland",
+          "population": 299388,
+          "area_sq_mi": 103000,
+          "gdp_per_capita": 30900.0,
+          "literacy_percent": "99,9"
+        },
+        {
+          "name": "Ireland",
+          "population": 4062235,
+          "area_sq_mi": 70280,
+          "gdp_per_capita": 29600.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Isle of Man",
+          "population": 75441,
+          "area_sq_mi": 572,
+          "gdp_per_capita": 21000.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Italy",
+          "population": 58133509,
+          "area_sq_mi": 301230,
+          "gdp_per_capita": 26700.0,
+          "literacy_percent": "98,6"
+        },
+        {
+          "name": "Jersey",
+          "population": 91084,
+          "area_sq_mi": 116,
+          "gdp_per_capita": 24800.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Liechtenstein",
+          "population": 33987,
+          "area_sq_mi": 160,
+          "gdp_per_capita": 25000.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Luxembourg",
+          "population": 474413,
+          "area_sq_mi": 2586,
+          "gdp_per_capita": 55100.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Macedonia",
+          "population": 2050554,
+          "area_sq_mi": 25333,
+          "gdp_per_capita": 6700.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Malta",
+          "population": 400214,
+          "area_sq_mi": 316,
+          "gdp_per_capita": 17700.0,
+          "literacy_percent": "92,8"
+        },
+        {
+          "name": "Monaco",
+          "population": 32543,
+          "area_sq_mi": 2,
+          "gdp_per_capita": 27000.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Netherlands",
+          "population": 16491461,
+          "area_sq_mi": 41526,
+          "gdp_per_capita": 28600.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Norway",
+          "population": 4610820,
+          "area_sq_mi": 323802,
+          "gdp_per_capita": 37800.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Poland",
+          "population": 38536869,
+          "area_sq_mi": 312685,
+          "gdp_per_capita": 11100.0,
+          "literacy_percent": "99,8"
+        },
+        {
+          "name": "Portugal",
+          "population": 10605870,
+          "area_sq_mi": 92391,
+          "gdp_per_capita": 18000.0,
+          "literacy_percent": "93,3"
+        },
+        {
+          "name": "Romania",
+          "population": 22303552,
+          "area_sq_mi": 237500,
+          "gdp_per_capita": 7000.0,
+          "literacy_percent": "98,4"
+        },
+        {
+          "name": "San Marino",
+          "population": 29251,
+          "area_sq_mi": 61,
+          "gdp_per_capita": 34600.0,
+          "literacy_percent": "96,0"
+        },
+        {
+          "name": "Serbia",
+          "population": 9396411,
+          "area_sq_mi": 88361,
+          "gdp_per_capita": 2200.0,
+          "literacy_percent": "93,0"
+        },
+        {
+          "name": "Slovakia",
+          "population": 5439448,
+          "area_sq_mi": 48845,
+          "gdp_per_capita": 13300.0,
+          "literacy_percent": ""
+        },
+        {
+          "name": "Slovenia",
+          "population": 2010347,
+          "area_sq_mi": 20273,
+          "gdp_per_capita": 19000.0,
+          "literacy_percent": "99,7"
+        },
+        {
+          "name": "Spain",
+          "population": 40397842,
+          "area_sq_mi": 504782,
+          "gdp_per_capita": 22000.0,
+          "literacy_percent": "97,9"
+        },
+        {
+          "name": "Sweden",
+          "population": 9016596,
+          "area_sq_mi": 449964,
+          "gdp_per_capita": 26800.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Switzerland",
+          "population": 7523934,
+          "area_sq_mi": 41290,
+          "gdp_per_capita": 32700.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "United Kingdom",
+          "population": 60609153,
+          "area_sq_mi": 244820,
+          "gdp_per_capita": 27700.0,
+          "literacy_percent": "99,0"
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "countries": [
+        {
+          "name": "Algeria",
+          "population": 32930091,
+          "area_sq_mi": 2381740,
+          "gdp_per_capita": 6000.0,
+          "literacy_percent": "70,0"
+        },
+        {
+          "name": "Angola",
+          "population": 12127071,
+          "area_sq_mi": 1246700,
+          "gdp_per_capita": 1900.0,
+          "literacy_percent": "42,0"
+        },
+        {
+          "name": "Benin",
+          "population": 7862944,
+          "area_sq_mi": 112620,
+          "gdp_per_capita": 1100.0,
+          "literacy_percent": "40,9"
+        },
+        {
+          "name": "Botswana",
+          "population": 1639833,
+          "area_sq_mi": 600370,
+          "gdp_per_capita": 9000.0,
+          "literacy_percent": "79,8"
+        },
+        {
+          "name": "Burkina Faso",
+          "population": 13902972,
+          "area_sq_mi": 274200,
+          "gdp_per_capita": 1100.0,
+          "literacy_percent": "26,6"
+        },
+        {
+          "name": "Burundi",
+          "population": 8090068,
+          "area_sq_mi": 27830,
+          "gdp_per_capita": 600.0,
+          "literacy_percent": "51,6"
+        },
+        {
+          "name": "Cameroon",
+          "population": 17340702,
+          "area_sq_mi": 475440,
+          "gdp_per_capita": 1800.0,
+          "literacy_percent": "79,0"
+        },
+        {
+          "name": "Cape Verde",
+          "population": 420979,
+          "area_sq_mi": 4033,
+          "gdp_per_capita": 1400.0,
+          "literacy_percent": "76,6"
+        },
+        {
+          "name": "Central African Rep.",
+          "population": 4303356,
+          "area_sq_mi": 622984,
+          "gdp_per_capita": 1100.0,
+          "literacy_percent": "51,0"
+        },
+        {
+          "name": "Chad",
+          "population": 9944201,
+          "area_sq_mi": 1284000,
+          "gdp_per_capita": 1200.0,
+          "literacy_percent": "47,5"
+        },
+        {
+          "name": "Comoros",
+          "population": 690948,
+          "area_sq_mi": 2170,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "56,5"
+        },
+        {
+          "name": "Congo, Dem. Rep.",
+          "population": 62660551,
+          "area_sq_mi": 2345410,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "65,5"
+        },
+        {
+          "name": "Congo, Repub. of the",
+          "population": 3702314,
+          "area_sq_mi": 342000,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "83,8"
+        },
+        {
+          "name": "Cote d'Ivoire",
+          "population": 17654843,
+          "area_sq_mi": 322460,
+          "gdp_per_capita": 1400.0,
+          "literacy_percent": "50,9"
+        },
+        {
+          "name": "Djibouti",
+          "population": 486530,
+          "area_sq_mi": 23000,
+          "gdp_per_capita": 1300.0,
+          "literacy_percent": "67,9"
+        },
+        {
+          "name": "Egypt",
+          "population": 78887007,
+          "area_sq_mi": 1001450,
+          "gdp_per_capita": 4000.0,
+          "literacy_percent": "57,7"
+        },
+        {
+          "name": "Equatorial Guinea",
+          "population": 540109,
+          "area_sq_mi": 28051,
+          "gdp_per_capita": 2700.0,
+          "literacy_percent": "85,7"
+        },
+        {
+          "name": "Eritrea",
+          "population": 4786994,
+          "area_sq_mi": 121320,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "58,6"
+        },
+        {
+          "name": "Ethiopia",
+          "population": 74777981,
+          "area_sq_mi": 1127127,
+          "gdp_per_capita": 700.0,
+          "literacy_percent": "42,7"
+        },
+        {
+          "name": "Gabon",
+          "population": 1424906,
+          "area_sq_mi": 267667,
+          "gdp_per_capita": 5500.0,
+          "literacy_percent": "63,2"
+        },
+        {
+          "name": "Gambia, The",
+          "population": 1641564,
+          "area_sq_mi": 11300,
+          "gdp_per_capita": 1700.0,
+          "literacy_percent": "40,1"
+        },
+        {
+          "name": "Ghana",
+          "population": 22409572,
+          "area_sq_mi": 239460,
+          "gdp_per_capita": 2200.0,
+          "literacy_percent": "74,8"
+        },
+        {
+          "name": "Guinea",
+          "population": 9690222,
+          "area_sq_mi": 245857,
+          "gdp_per_capita": 2100.0,
+          "literacy_percent": "35,9"
+        },
+        {
+          "name": "Guinea-Bissau",
+          "population": 1442029,
+          "area_sq_mi": 36120,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "42,4"
+        },
+        {
+          "name": "Kenya",
+          "population": 34707817,
+          "area_sq_mi": 582650,
+          "gdp_per_capita": 1000.0,
+          "literacy_percent": "85,1"
+        },
+        {
+          "name": "Lesotho",
+          "population": 2022331,
+          "area_sq_mi": 30355,
+          "gdp_per_capita": 3000.0,
+          "literacy_percent": "84,8"
+        },
+        {
+          "name": "Liberia",
+          "population": 3042004,
+          "area_sq_mi": 111370,
+          "gdp_per_capita": 1000.0,
+          "literacy_percent": "57,5"
+        },
+        {
+          "name": "Libya",
+          "population": 5900754,
+          "area_sq_mi": 1759540,
+          "gdp_per_capita": 6400.0,
+          "literacy_percent": "82,6"
+        },
+        {
+          "name": "Madagascar",
+          "population": 18595469,
+          "area_sq_mi": 587040,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "68,9"
+        },
+        {
+          "name": "Malawi",
+          "population": 13013926,
+          "area_sq_mi": 118480,
+          "gdp_per_capita": 600.0,
+          "literacy_percent": "62,7"
+        },
+        {
+          "name": "Mali",
+          "population": 11716829,
+          "area_sq_mi": 1240000,
+          "gdp_per_capita": 900.0,
+          "literacy_percent": "46,4"
+        },
+        {
+          "name": "Mauritania",
+          "population": 3177388,
+          "area_sq_mi": 1030700,
+          "gdp_per_capita": 1800.0,
+          "literacy_percent": "41,7"
+        },
+        {
+          "name": "Mauritius",
+          "population": 1240827,
+          "area_sq_mi": 2040,
+          "gdp_per_capita": 11400.0,
+          "literacy_percent": "85,6"
+        },
+        {
+          "name": "Mayotte",
+          "population": 201234,
+          "area_sq_mi": 374,
+          "gdp_per_capita": 2600.0,
+          "literacy_percent": "NaN"
+        },
+        {
+          "name": "Morocco",
+          "population": 33241259,
+          "area_sq_mi": 446550,
+          "gdp_per_capita": 4000.0,
+          "literacy_percent": "51,7"
+        },
+        {
+          "name": "Mozambique",
+          "population": 19686505,
+          "area_sq_mi": 801590,
+          "gdp_per_capita": 1200.0,
+          "literacy_percent": "47,8"
+        },
+        {
+          "name": "Namibia",
+          "population": 2044147,
+          "area_sq_mi": 825418,
+          "gdp_per_capita": 7200.0,
+          "literacy_percent": "84,0"
+        },
+        {
+          "name": "Niger",
+          "population": 12525094,
+          "area_sq_mi": 1267000,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "17,6"
+        },
+        {
+          "name": "Nigeria",
+          "population": 131859731,
+          "area_sq_mi": 923768,
+          "gdp_per_capita": 900.0,
+          "literacy_percent": "68,0"
+        },
+        {
+          "name": "Reunion",
+          "population": 787584,
+          "area_sq_mi": 2517,
+          "gdp_per_capita": 5800.0,
+          "literacy_percent": "88,9"
+        },
+        {
+          "name": "Rwanda",
+          "population": 8648248,
+          "area_sq_mi": 26338,
+          "gdp_per_capita": 1300.0,
+          "literacy_percent": "70,4"
+        },
+        {
+          "name": "Saint Helena",
+          "population": 7502,
+          "area_sq_mi": 413,
+          "gdp_per_capita": 2500.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Sao Tome & Principe",
+          "population": 193413,
+          "area_sq_mi": 1001,
+          "gdp_per_capita": 1200.0,
+          "literacy_percent": "79,3"
+        },
+        {
+          "name": "Senegal",
+          "population": 11987121,
+          "area_sq_mi": 196190,
+          "gdp_per_capita": 1600.0,
+          "literacy_percent": "40,2"
+        },
+        {
+          "name": "Seychelles",
+          "population": 81541,
+          "area_sq_mi": 455,
+          "gdp_per_capita": 7800.0,
+          "literacy_percent": "58,0"
+        },
+        {
+          "name": "Sierra Leone",
+          "population": 6005250,
+          "area_sq_mi": 71740,
+          "gdp_per_capita": 500.0,
+          "literacy_percent": "31,4"
+        },
+        {
+          "name": "Somalia",
+          "population": 8863338,
+          "area_sq_mi": 637657,
+          "gdp_per_capita": 500.0,
+          "literacy_percent": "37,8"
+        },
+        {
+          "name": "South Africa",
+          "population": 44187637,
+          "area_sq_mi": 1219912,
+          "gdp_per_capita": 10700.0,
+          "literacy_percent": "86,4"
+        },
+        {
+          "name": "Sudan",
+          "population": 41236378,
+          "area_sq_mi": 2505810,
+          "gdp_per_capita": 1900.0,
+          "literacy_percent": "61,1"
+        },
+        {
+          "name": "Swaziland",
+          "population": 1136334,
+          "area_sq_mi": 17363,
+          "gdp_per_capita": 4900.0,
+          "literacy_percent": "81,6"
+        },
+        {
+          "name": "Tanzania",
+          "population": 37445392,
+          "area_sq_mi": 945087,
+          "gdp_per_capita": 600.0,
+          "literacy_percent": "78,2"
+        },
+        {
+          "name": "Togo",
+          "population": 5548702,
+          "area_sq_mi": 56785,
+          "gdp_per_capita": 1500.0,
+          "literacy_percent": "60,9"
+        },
+        {
+          "name": "Tunisia",
+          "population": 10175014,
+          "area_sq_mi": 163610,
+          "gdp_per_capita": 6900.0,
+          "literacy_percent": "74,2"
+        },
+        {
+          "name": "Uganda",
+          "population": 28195754,
+          "area_sq_mi": 236040,
+          "gdp_per_capita": 1400.0,
+          "literacy_percent": "69,9"
+        },
+        {
+          "name": "Western Sahara",
+          "population": 273008,
+          "area_sq_mi": 266000,
+          "gdp_per_capita": 2000.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Zambia",
+          "population": 11502010,
+          "area_sq_mi": 752614,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "80,6"
+        },
+        {
+          "name": "Zimbabwe",
+          "population": 12236805,
+          "area_sq_mi": 390580,
+          "gdp_per_capita": 1900.0,
+          "literacy_percent": "90,7"
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "countries": [
+        {
+          "name": "American Samoa",
+          "population": 57794,
+          "area_sq_mi": 199,
+          "gdp_per_capita": 8000.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Australia",
+          "population": 20264082,
+          "area_sq_mi": 7686850,
+          "gdp_per_capita": 29000.0,
+          "literacy_percent": "100,0"
+        },
+        {
+          "name": "Cook Islands",
+          "population": 21388,
+          "area_sq_mi": 240,
+          "gdp_per_capita": 5000.0,
+          "literacy_percent": "95,0"
+        },
+        {
+          "name": "Fiji",
+          "population": 905949,
+          "area_sq_mi": 18270,
+          "gdp_per_capita": 5800.0,
+          "literacy_percent": "93,7"
+        },
+        {
+          "name": "French Polynesia",
+          "population": 274578,
+          "area_sq_mi": 4167,
+          "gdp_per_capita": 17500.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Guam",
+          "population": 171019,
+          "area_sq_mi": 541,
+          "gdp_per_capita": 21000.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Kiribati",
+          "population": 105432,
+          "area_sq_mi": 811,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "91,0"
+        },
+        {
+          "name": "Marshall Islands",
+          "population": 60422,
+          "area_sq_mi": 11854,
+          "gdp_per_capita": 1600.0,
+          "literacy_percent": "93,7"
+        },
+        {
+          "name": "Micronesia, Fed. St.",
+          "population": 108004,
+          "area_sq_mi": 702,
+          "gdp_per_capita": 2000.0,
+          "literacy_percent": "89,0"
+        },
+        {
+          "name": "Nauru",
+          "population": 13287,
+          "area_sq_mi": 21,
+          "gdp_per_capita": 5000.0,
+          "literacy_percent": "96,0"
+        },
+        {
+          "name": "New Caledonia",
+          "population": 219246,
+          "area_sq_mi": 19060,
+          "gdp_per_capita": 15000.0,
+          "literacy_percent": "91,0"
+        },
+        {
+          "name": "New Zealand",
+          "population": 4076140,
+          "area_sq_mi": 268680,
+          "gdp_per_capita": 21600.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "N. Mariana Islands",
+          "population": 82459,
+          "area_sq_mi": 477,
+          "gdp_per_capita": 12500.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Palau",
+          "population": 20579,
+          "area_sq_mi": 458,
+          "gdp_per_capita": 9000.0,
+          "literacy_percent": "92,0"
+        },
+        {
+          "name": "Papua New Guinea",
+          "population": 5670544,
+          "area_sq_mi": 462840,
+          "gdp_per_capita": 2200.0,
+          "literacy_percent": "64,6"
+        },
+        {
+          "name": "Samoa",
+          "population": 176908,
+          "area_sq_mi": 2944,
+          "gdp_per_capita": 5600.0,
+          "literacy_percent": "99,7"
+        },
+        {
+          "name": "Solomon Islands",
+          "population": 552438,
+          "area_sq_mi": 28450,
+          "gdp_per_capita": 1700.0,
+          "literacy_percent": "84,1"
+        },
+        {
+          "name": "Tonga",
+          "population": 114689,
+          "area_sq_mi": 748,
+          "gdp_per_capita": 2200.0,
+          "literacy_percent": "98,5"
+        },
+        {
+          "name": "Tuvalu",
+          "population": 11810,
+          "area_sq_mi": 26,
+          "gdp_per_capita": 1100.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Vanuatu",
+          "population": 208869,
+          "area_sq_mi": 12200,
+          "gdp_per_capita": 2900.0,
+          "literacy_percent": "53,0"
+        },
+        {
+          "name": "Wallis and Futuna",
+          "population": 16025,
+          "area_sq_mi": 274,
+          "gdp_per_capita": 3700.0,
+          "literacy_percent": "50,0"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "countries": [
+        {
+          "name": "Anguilla",
+          "population": 13477,
+          "area_sq_mi": 102,
+          "gdp_per_capita": 8600.0,
+          "literacy_percent": "95,0"
+        },
+        {
+          "name": "Antigua & Barbuda",
+          "population": 69108,
+          "area_sq_mi": 443,
+          "gdp_per_capita": 11000.0,
+          "literacy_percent": "89,0"
+        },
+        {
+          "name": "Argentina",
+          "population": 39921833,
+          "area_sq_mi": 2766890,
+          "gdp_per_capita": 11200.0,
+          "literacy_percent": "97,1"
+        },
+        {
+          "name": "Armenia",
+          "population": 2976372,
+          "area_sq_mi": 29800,
+          "gdp_per_capita": 3500.0,
+          "literacy_percent": "98,6"
+        },
+        {
+          "name": "Aruba",
+          "population": 71891,
+          "area_sq_mi": 193,
+          "gdp_per_capita": 28000.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Azerbaijan",
+          "population": 7961619,
+          "area_sq_mi": 86600,
+          "gdp_per_capita": 3400.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Bahamas, The",
+          "population": 303770,
+          "area_sq_mi": 13940,
+          "gdp_per_capita": 16700.0,
+          "literacy_percent": "95,6"
+        },
+        {
+          "name": "Bahrain",
+          "population": 698585,
+          "area_sq_mi": 665,
+          "gdp_per_capita": 16900.0,
+          "literacy_percent": "89,1"
+        },
+        {
+          "name": "Barbados",
+          "population": 279912,
+          "area_sq_mi": 431,
+          "gdp_per_capita": 15700.0,
+          "literacy_percent": "97,4"
+        },
+        {
+          "name": "Belarus",
+          "population": 10293011,
+          "area_sq_mi": 207600,
+          "gdp_per_capita": 6100.0,
+          "literacy_percent": "99,6"
+        },
+        {
+          "name": "Belize",
+          "population": 287730,
+          "area_sq_mi": 22966,
+          "gdp_per_capita": 4900.0,
+          "literacy_percent": "94,1"
+        },
+        {
+          "name": "Bolivia",
+          "population": 8989046,
+          "area_sq_mi": 1098580,
+          "gdp_per_capita": 2400.0,
+          "literacy_percent": "87,2"
+        },
+        {
+          "name": "Brazil",
+          "population": 188078227,
+          "area_sq_mi": 8511965,
+          "gdp_per_capita": 7600.0,
+          "literacy_percent": "86,4"
+        },
+        {
+          "name": "British Virgin Is.",
+          "population": 23098,
+          "area_sq_mi": 153,
+          "gdp_per_capita": 16000.0,
+          "literacy_percent": "97,8"
+        },
+        {
+          "name": "Cayman Islands",
+          "population": 45436,
+          "area_sq_mi": 262,
+          "gdp_per_capita": 35000.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Chile",
+          "population": 16134219,
+          "area_sq_mi": 756950,
+          "gdp_per_capita": 9900.0,
+          "literacy_percent": "96,2"
+        },
+        {
+          "name": "Colombia",
+          "population": 43593035,
+          "area_sq_mi": 1138910,
+          "gdp_per_capita": 6300.0,
+          "literacy_percent": "92,5"
+        },
+        {
+          "name": "Costa Rica",
+          "population": 4075261,
+          "area_sq_mi": 51100,
+          "gdp_per_capita": 9100.0,
+          "literacy_percent": "96,0"
+        },
+        {
+          "name": "Cuba",
+          "population": 11382820,
+          "area_sq_mi": 110860,
+          "gdp_per_capita": 2900.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Cyprus",
+          "population": 784301,
+          "area_sq_mi": 9250,
+          "gdp_per_capita": 19200.0,
+          "literacy_percent": "97,6"
+        },
+        {
+          "name": "Dominica",
+          "population": 68910,
+          "area_sq_mi": 754,
+          "gdp_per_capita": 5400.0,
+          "literacy_percent": "94,0"
+        },
+        {
+          "name": "Dominican Republic",
+          "population": 9183984,
+          "area_sq_mi": 48730,
+          "gdp_per_capita": 6000.0,
+          "literacy_percent": "84,7"
+        },
+        {
+          "name": "Ecuador",
+          "population": 13547510,
+          "area_sq_mi": 283560,
+          "gdp_per_capita": 3300.0,
+          "literacy_percent": "92,5"
+        },
+        {
+          "name": "El Salvador",
+          "population": 6822378,
+          "area_sq_mi": 21040,
+          "gdp_per_capita": 4800.0,
+          "literacy_percent": "80,2"
+        },
+        {
+          "name": "Estonia",
+          "population": 1324333,
+          "area_sq_mi": 45226,
+          "gdp_per_capita": 12300.0,
+          "literacy_percent": "99,8"
+        },
+        {
+          "name": "French Guiana",
+          "population": 199509,
+          "area_sq_mi": 91000,
+          "gdp_per_capita": 8300.0,
+          "literacy_percent": "83,0"
+        },
+        {
+          "name": "Gaza Strip",
+          "population": 1428757,
+          "area_sq_mi": 360,
+          "gdp_per_capita": 600.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Georgia",
+          "population": 4661473,
+          "area_sq_mi": 69700,
+          "gdp_per_capita": 2500.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "Grenada",
+          "population": 89703,
+          "area_sq_mi": 344,
+          "gdp_per_capita": 5000.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Guadeloupe",
+          "population": 452776,
+          "area_sq_mi": 1780,
+          "gdp_per_capita": 8000.0,
+          "literacy_percent": "90,0"
+        },
+        {
+          "name": "Guatemala",
+          "population": 12293545,
+          "area_sq_mi": 108890,
+          "gdp_per_capita": 4100.0,
+          "literacy_percent": "70,6"
+        },
+        {
+          "name": "Guyana",
+          "population": 767245,
+          "area_sq_mi": 214970,
+          "gdp_per_capita": 4000.0,
+          "literacy_percent": "98,8"
+        },
+        {
+          "name": "Haiti",
+          "population": 8308504,
+          "area_sq_mi": 27750,
+          "gdp_per_capita": 1600.0,
+          "literacy_percent": "52,9"
+        },
+        {
+          "name": "Honduras",
+          "population": 7326496,
+          "area_sq_mi": 112090,
+          "gdp_per_capita": 2600.0,
+          "literacy_percent": "76,2"
+        },
+        {
+          "name": "Iraq",
+          "population": 26783383,
+          "area_sq_mi": 437072,
+          "gdp_per_capita": 1500.0,
+          "literacy_percent": "40,4"
+        },
+        {
+          "name": "Israel",
+          "population": 6352117,
+          "area_sq_mi": 20770,
+          "gdp_per_capita": 19800.0,
+          "literacy_percent": "95,4"
+        },
+        {
+          "name": "Jamaica",
+          "population": 2758124,
+          "area_sq_mi": 10991,
+          "gdp_per_capita": 3900.0,
+          "literacy_percent": "87,9"
+        },
+        {
+          "name": "Jordan",
+          "population": 5906760,
+          "area_sq_mi": 92300,
+          "gdp_per_capita": 4300.0,
+          "literacy_percent": "91,3"
+        },
+        {
+          "name": "Kazakhstan",
+          "population": 15233244,
+          "area_sq_mi": 2717300,
+          "gdp_per_capita": 6300.0,
+          "literacy_percent": "98,4"
+        },
+        {
+          "name": "Kuwait",
+          "population": 2418393,
+          "area_sq_mi": 17820,
+          "gdp_per_capita": 19000.0,
+          "literacy_percent": "83,5"
+        },
+        {
+          "name": "Kyrgyzstan",
+          "population": 5213898,
+          "area_sq_mi": 198500,
+          "gdp_per_capita": 1600.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Latvia",
+          "population": 2274735,
+          "area_sq_mi": 64589,
+          "gdp_per_capita": 10200.0,
+          "literacy_percent": "99,8"
+        },
+        {
+          "name": "Lebanon",
+          "population": 3874050,
+          "area_sq_mi": 10400,
+          "gdp_per_capita": 4800.0,
+          "literacy_percent": "87,4"
+        },
+        {
+          "name": "Lithuania",
+          "population": 3585906,
+          "area_sq_mi": 65200,
+          "gdp_per_capita": 11400.0,
+          "literacy_percent": "99,6"
+        },
+        {
+          "name": "Martinique",
+          "population": 436131,
+          "area_sq_mi": 1100,
+          "gdp_per_capita": 14400.0,
+          "literacy_percent": "97,7"
+        },
+        {
+          "name": "Mexico",
+          "population": 107449525,
+          "area_sq_mi": 1972550,
+          "gdp_per_capita": 9000.0,
+          "literacy_percent": "92,2"
+        },
+        {
+          "name": "Moldova",
+          "population": 4466706,
+          "area_sq_mi": 33843,
+          "gdp_per_capita": 1800.0,
+          "literacy_percent": "99,1"
+        },
+        {
+          "name": "Montserrat",
+          "population": 9439,
+          "area_sq_mi": 102,
+          "gdp_per_capita": 3400.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Netherlands Antilles",
+          "population": 221736,
+          "area_sq_mi": 960,
+          "gdp_per_capita": 11400.0,
+          "literacy_percent": "96,7"
+        },
+        {
+          "name": "Nicaragua",
+          "population": 5570129,
+          "area_sq_mi": 129494,
+          "gdp_per_capita": 2300.0,
+          "literacy_percent": "67,5"
+        },
+        {
+          "name": "Oman",
+          "population": 3102229,
+          "area_sq_mi": 212460,
+          "gdp_per_capita": 13100.0,
+          "literacy_percent": "75,8"
+        },
+        {
+          "name": "Panama",
+          "population": 3191319,
+          "area_sq_mi": 78200,
+          "gdp_per_capita": 6300.0,
+          "literacy_percent": "92,6"
+        },
+        {
+          "name": "Paraguay",
+          "population": 6506464,
+          "area_sq_mi": 406750,
+          "gdp_per_capita": 4700.0,
+          "literacy_percent": "94,0"
+        },
+        {
+          "name": "Peru",
+          "population": 28302603,
+          "area_sq_mi": 1285220,
+          "gdp_per_capita": 5100.0,
+          "literacy_percent": "90,9"
+        },
+        {
+          "name": "Puerto Rico",
+          "population": 3927188,
+          "area_sq_mi": 13790,
+          "gdp_per_capita": 16800.0,
+          "literacy_percent": "94,1"
+        },
+        {
+          "name": "Qatar",
+          "population": 885359,
+          "area_sq_mi": 11437,
+          "gdp_per_capita": 21500.0,
+          "literacy_percent": "82,5"
+        },
+        {
+          "name": "Russia",
+          "population": 142893540,
+          "area_sq_mi": 17075200,
+          "gdp_per_capita": 8900.0,
+          "literacy_percent": "99,6"
+        },
+        {
+          "name": "Saint Kitts & Nevis",
+          "population": 39129,
+          "area_sq_mi": 261,
+          "gdp_per_capita": 8800.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Saint Lucia",
+          "population": 168458,
+          "area_sq_mi": 616,
+          "gdp_per_capita": 5400.0,
+          "literacy_percent": "67,0"
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "population": 117848,
+          "area_sq_mi": 389,
+          "gdp_per_capita": 2900.0,
+          "literacy_percent": "96,0"
+        },
+        {
+          "name": "Saudi Arabia",
+          "population": 27019731,
+          "area_sq_mi": 1960582,
+          "gdp_per_capita": 11800.0,
+          "literacy_percent": "78,8"
+        },
+        {
+          "name": "Suriname",
+          "population": 439117,
+          "area_sq_mi": 163270,
+          "gdp_per_capita": 4000.0,
+          "literacy_percent": "93,0"
+        },
+        {
+          "name": "Syria",
+          "population": 18881361,
+          "area_sq_mi": 185180,
+          "gdp_per_capita": 3300.0,
+          "literacy_percent": "76,9"
+        },
+        {
+          "name": "Tajikistan",
+          "population": 7320815,
+          "area_sq_mi": 143100,
+          "gdp_per_capita": 1000.0,
+          "literacy_percent": "99,4"
+        },
+        {
+          "name": "Trinidad & Tobago",
+          "population": 1065842,
+          "area_sq_mi": 5128,
+          "gdp_per_capita": 9500.0,
+          "literacy_percent": "98,6"
+        },
+        {
+          "name": "Turkey",
+          "population": 70413958,
+          "area_sq_mi": 780580,
+          "gdp_per_capita": 6700.0,
+          "literacy_percent": "86,5"
+        },
+        {
+          "name": "Turkmenistan",
+          "population": 5042920,
+          "area_sq_mi": 488100,
+          "gdp_per_capita": 5800.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Turks & Caicos Is",
+          "population": 21152,
+          "area_sq_mi": 430,
+          "gdp_per_capita": 9600.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Ukraine",
+          "population": 46710816,
+          "area_sq_mi": 603700,
+          "gdp_per_capita": 5400.0,
+          "literacy_percent": "99,7"
+        },
+        {
+          "name": "United Arab Emirates",
+          "population": 2602713,
+          "area_sq_mi": 82880,
+          "gdp_per_capita": 23200.0,
+          "literacy_percent": "77,9"
+        },
+        {
+          "name": "Uruguay",
+          "population": 3431932,
+          "area_sq_mi": 176220,
+          "gdp_per_capita": 12800.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Uzbekistan",
+          "population": 27307134,
+          "area_sq_mi": 447400,
+          "gdp_per_capita": 1700.0,
+          "literacy_percent": "99,3"
+        },
+        {
+          "name": "Venezuela",
+          "population": 25730435,
+          "area_sq_mi": 912050,
+          "gdp_per_capita": 4800.0,
+          "literacy_percent": "93,4"
+        },
+        {
+          "name": "Virgin Islands",
+          "population": 108605,
+          "area_sq_mi": 1910,
+          "gdp_per_capita": 17200.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "West Bank",
+          "population": 2460492,
+          "area_sq_mi": 5860,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "96,0"
+        },
+        {
+          "name": "Yemen",
+          "population": 21456188,
+          "area_sq_mi": 527970,
+          "gdp_per_capita": 800.0,
+          "literacy_percent": "50,2"
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "countries": [
+        {
+          "name": "Bermuda",
+          "population": 65773,
+          "area_sq_mi": 53,
+          "gdp_per_capita": 36000.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "Canada",
+          "population": 33098932,
+          "area_sq_mi": 9984670,
+          "gdp_per_capita": 29800.0,
+          "literacy_percent": "97,0"
+        },
+        {
+          "name": "Greenland",
+          "population": 56361,
+          "area_sq_mi": 2166086,
+          "gdp_per_capita": 20000.0,
+          "literacy_percent": "98,0"
+        },
+        {
+          "name": "St Pierre & Miquelon",
+          "population": 7026,
+          "area_sq_mi": 242,
+          "gdp_per_capita": 6900.0,
+          "literacy_percent": "99,0"
+        },
+        {
+          "name": "United States",
+          "population": 298444215,
+          "area_sq_mi": 9631420,
+          "gdp_per_capita": 37800.0,
+          "literacy_percent": "97,0"
+        }
+      ]
+    }
+  ]
+}
